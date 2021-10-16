@@ -1,0 +1,6 @@
+if SHIELD_REBOUND_V4
+
+config ZMK_REBOUND_V4
+    default "Rebound V4"
+
+endif
